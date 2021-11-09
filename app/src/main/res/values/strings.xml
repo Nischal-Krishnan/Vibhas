@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Vibhas</string>
+    <string name="loading_diwali_3d_models">Loading Diwali 3D Models</string>
+    <string name="diwali_decoration">Diwali Decoration</string>
+    <string name="next">Next</string>
+    <string name="instructions_nhold_the_camera_to_the_anchors_points_for_some_seconds_until_you_see_number_on_right_top_incrementing">Instructions: Hold the camera to the anchors points for some seconds until you see number on right top incrementing</string>
+    <string name="device">Device is not compatible.</string>
+    <string name="logo">logo</string>
+</resources>
